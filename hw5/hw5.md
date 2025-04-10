@@ -1,6 +1,6 @@
 ## Homework 5
 
-**The Data**: [building_inventory.csv](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)  
+**The Data**: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv
 **The Analysis**: [Workbook.ipynb](https://github.com/grantfross/grantfross.github.io/blob/main/hw5/Workbook.ipynb)
 
 ---
